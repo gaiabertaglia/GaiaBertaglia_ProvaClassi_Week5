@@ -1,0 +1,15 @@
+C:\Users\gaiab\OneDrive\Desktop\Gaia_Bertaglia_Week5\LaureaStudente\LaureaStudente\bin\Debug\net6.0\LaureaStudente.exe
+C:\Users\gaiab\OneDrive\Desktop\Gaia_Bertaglia_Week5\LaureaStudente\LaureaStudente\bin\Debug\net6.0\LaureaStudente.deps.json
+C:\Users\gaiab\OneDrive\Desktop\Gaia_Bertaglia_Week5\LaureaStudente\LaureaStudente\bin\Debug\net6.0\LaureaStudente.runtimeconfig.json
+C:\Users\gaiab\OneDrive\Desktop\Gaia_Bertaglia_Week5\LaureaStudente\LaureaStudente\bin\Debug\net6.0\LaureaStudente.dll
+C:\Users\gaiab\OneDrive\Desktop\Gaia_Bertaglia_Week5\LaureaStudente\LaureaStudente\bin\Debug\net6.0\LaureaStudente.pdb
+C:\Users\gaiab\OneDrive\Desktop\Gaia_Bertaglia_Week5\LaureaStudente\LaureaStudente\obj\Debug\net6.0\LaureaStudente.csproj.AssemblyReference.cache
+C:\Users\gaiab\OneDrive\Desktop\Gaia_Bertaglia_Week5\LaureaStudente\LaureaStudente\obj\Debug\net6.0\LaureaStudente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaiab\OneDrive\Desktop\Gaia_Bertaglia_Week5\LaureaStudente\LaureaStudente\obj\Debug\net6.0\LaureaStudente.AssemblyInfoInputs.cache
+C:\Users\gaiab\OneDrive\Desktop\Gaia_Bertaglia_Week5\LaureaStudente\LaureaStudente\obj\Debug\net6.0\LaureaStudente.AssemblyInfo.cs
+C:\Users\gaiab\OneDrive\Desktop\Gaia_Bertaglia_Week5\LaureaStudente\LaureaStudente\obj\Debug\net6.0\LaureaStudente.csproj.CoreCompileInputs.cache
+C:\Users\gaiab\OneDrive\Desktop\Gaia_Bertaglia_Week5\LaureaStudente\LaureaStudente\obj\Debug\net6.0\LaureaStudente.dll
+C:\Users\gaiab\OneDrive\Desktop\Gaia_Bertaglia_Week5\LaureaStudente\LaureaStudente\obj\Debug\net6.0\refint\LaureaStudente.dll
+C:\Users\gaiab\OneDrive\Desktop\Gaia_Bertaglia_Week5\LaureaStudente\LaureaStudente\obj\Debug\net6.0\LaureaStudente.pdb
+C:\Users\gaiab\OneDrive\Desktop\Gaia_Bertaglia_Week5\LaureaStudente\LaureaStudente\obj\Debug\net6.0\LaureaStudente.genruntimeconfig.cache
+C:\Users\gaiab\OneDrive\Desktop\Gaia_Bertaglia_Week5\LaureaStudente\LaureaStudente\obj\Debug\net6.0\ref\LaureaStudente.dll
